@@ -212,17 +212,8 @@
     "south_east_asia":{
         "type":"collection",
         "countries":[
-            "Singapore",
-            "Brunei",
-            "Malaysia",
-            "Thailand",
-            "Indonesia",
-            "Philippines",
-            "Vietnam",
-            "Myanmar",
-            "Laos",
-            "Timor-Leste",
-            "Cambodia"
+            "Bosnia and Herzegovina",
+            "Croatia"
         ]
     },
     "asia": {
