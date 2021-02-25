@@ -41,7 +41,7 @@ export default class StreetView extends EventEmitter {
     async randomValidLocation({
                                   endZoom = 14,
                                   type = 'sv',
-                                  distribution = 'weighted'
+                                  distribution = 'uniform'
                               }) {
         this.distribution = distribution;
 
